@@ -1,0 +1,26 @@
+{
+	"users":[
+		{
+			"id":"09e4e1dc-9452-4e15-8b31-70a4aa3ceef2",
+			"firstName":"john",
+			"lastName":"doe"
+		},
+		{
+			"id":"e8971617-18ac-4325-86c8-297623a89f38",
+			"firstName":"jane",
+			"lastName":"doe"
+		}
+	],
+	"contracts": [
+		{
+			"id":"c2113acd-78ef-41b5-8ff5-6e1a905b924f",
+			"entity":"sia",
+			"type":"full"
+		},
+		{
+			"id":"0a900f22-5a68-4427-84b8-96d7e6d52d2e",
+			"entity":"sphere",
+			"type":"partial"
+		}
+	]
+}
